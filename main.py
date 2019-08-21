@@ -1,4 +1,4 @@
-def greet(name):
+def greet_me(name):
     print("Hello {}".format(name))
 
-greet("Riyaz")
+greet_me("Riyaz")
